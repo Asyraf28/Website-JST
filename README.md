@@ -21,5 +21,5 @@ Website dibuat dengan menggunakan:
 
 ## Screenshots
 
-![Tampilan Website](asset/home.png)
+![Tampilan Website](assets/home.png)
 
